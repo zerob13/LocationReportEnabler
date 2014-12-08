@@ -10,9 +10,9 @@ import java.io.IOException;
 
 public class SimStateChangedReceiver extends BroadcastReceiver {
     private final String COMMAND_PREFIX = "setprop ";
-    private final String[] PROPERTIES = {"gsm.sim.operator.numeric 310004",
+    private final String[] PROPERTIES = {"gsm.sim.operator.numeric 310030",
             "gsm.sim.operator.iso-country us",
-            "gsm.sim.operator.alpha Verizon"};
+            "gsm.sim.operator.alpha AT"};
 
     public SimStateChangedReceiver() {
     }
