@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/zerob13/Documents/MyWork/LocationReportEnabler/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/zerob13/Documents/MyWork/LocationReportEnabler/app/build/intermediates/pre-dexed/debug/classes-ce390e6f2f26b0082124a89b561c113bb0c04a54.jar" />
+    </item>
+    <item
+        jar="/usr/local/Cellar/android-sdk/24.2/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/zerob13/Documents/MyWork/LocationReportEnabler/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-8bab7559e1b1617c51825b1fde1f2ae196e7c2d3.jar" />
+    </item>
+    <item
+        jar="/Users/zerob13/Documents/MyWork/LocationReportEnabler/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/zerob13/Documents/MyWork/LocationReportEnabler/app/build/intermediates/pre-dexed/debug/classes-d0393b18834d31275cc3676708300f63faaf05bb.jar" />
+    </item>
+    <item
+        jar="/Users/zerob13/Documents/MyWork/LocationReportEnabler/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/zerob13/Documents/MyWork/LocationReportEnabler/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-b9813ed7767dd598bb02c84d35a96a9b2d47f2e2.jar" />
+    </item>
+
+</items>

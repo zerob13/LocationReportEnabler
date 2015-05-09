@@ -8,7 +8,7 @@ import java.io.IOException;
  */
 public final class PropUtil {
     private static final String COMMAND_PREFIX = "setprop ";
-    private static final String[] PROPERTIES = {"gsm.sim.operator.numeric 310030"};
+    private static final String[] PROPERTIES = {"gsm.sim.operator.numeric 310004","gsm.sim.operator.iso-country us","setprop gsm.sim.operator.alpha Verizon"};
 
     public static void enableLocationReport() {
         try{

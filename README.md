@@ -16,6 +16,8 @@ In general, I suggest to use the xposed one, it do more clearly and stable.
 This version set the only one variable once the device boot completed or the sim card is ready.
 
 + set gsm.sim.operator.numeric to 310030
++ set gsm.sim.operator.iso-country us
++ set gsm.sim.operator.alpha Verizon
 
 Download: https://drive.google.com/file/d/0BxNnvIFWQpP2aGszc3lYRWRCSzg/view?usp=sharing
 
